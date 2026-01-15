@@ -1,4 +1,4 @@
-# 🇺🇸 US Healthcare Analysis Case Study
+# US Healthcare Analysis Case Study
 
 This project provides an in-depth analysis of healthcare trends in the US, focusing on **disease prevalence, gender-based insights, blood group analysis, admission types, and insurance provider performance**. The study aims to support data-driven decision-making for healthcare strategies and resource allocation.
 
